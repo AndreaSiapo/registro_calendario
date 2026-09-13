@@ -12,5 +12,5 @@ UI para agendar a personas. Los clientes hacen clic en la interfaz y esta los ay
 
 **Client:** React, TailwindCSS
 
-**Server:** Laravel
+**Server:** Vite
 
